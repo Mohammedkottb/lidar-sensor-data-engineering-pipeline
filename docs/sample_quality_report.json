@@ -1,0 +1,17 @@
+{
+  "raw_points": 1202,
+  "invalid_nonfinite_or_missing": 2,
+  "invalid_intensity": 1,
+  "out_of_range": 1,
+  "duplicate_points": 2,
+  "clean_points": 1196,
+  "removed_points": 6,
+  "retention_pct": 99.5,
+  "frames": 12,
+  "scenes": 6,
+  "split_frames": {
+    "train": 8,
+    "val": 2,
+    "test": 2
+  }
+}

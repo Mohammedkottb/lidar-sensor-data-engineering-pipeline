@@ -1,0 +1,7 @@
+{
+  "provenance": "synthetic",
+  "description": "Generated with NumPy; not real sensor measurements. Labels are simulated, not verified annotations.",
+  "random_seed": 42,
+  "frames": 12,
+  "points_per_frame_before_injections": 100
+}
